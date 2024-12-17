@@ -2,7 +2,7 @@ This is a simple text app built with networking libraries found in the
 Python Standard Library and Tkinter that allows you to start a DM with
 other people that are connected to the same server you are.
 
-![alt text](./DM_gui_pic.png)
+![alt text](DM_gui_pic.png)
 
 Before starting, make sure you have Tkinter installed.
 To start using the program, run "python a5.py" in the Terminal.
